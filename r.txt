@@ -1,14 +1,10 @@
 #include<stdio.h>
 intmain()
 {
-	int n,a[n],i;
-	int sum;
-	printf("enter the value of coins:");
-	scanf("%d",&n);
-	for(i=0;i<n;i++)
-	{
-		scanf("%d",a[i]);
-	}
-	printf("enter the sum");
-	scanf("%d",&sum);
+int n,a[n],i;
+int sum;
+printf("enter the value of coins:");
+scanf("%d",&n);
+printf("enter the sum");
+scanf("%d",&sum);
 }
